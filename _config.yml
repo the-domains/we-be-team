@@ -1,0 +1,28 @@
+name: we be team
+favicon: null
+layout_spectrum: 0.014357092324644327
+typography_spectrum: 0.7907870367635041
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8889288962818682
+  lightness: 0.37331041344441473
+  saturation: 0.9566882401704788
+  rhythmicContrast: 0.048474217765033245
+purpose: []
