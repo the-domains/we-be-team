@@ -1,28 +1,40 @@
-name: we be team
 favicon: null
-layout_spectrum: 0.014357092324644327
-typography_spectrum: 0.7907870367635041
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: we be team
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9566882401704788
+  brandStrength: 0.8889288962818682
+  rhythmicContrast: 0.04847421776503325
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.8889288962818682
-  lightness: 0.37331041344441473
-  saturation: 0.9566882401704788
-  rhythmicContrast: 0.048474217765033245
-purpose: []
+  lightness: 0.3733104134444147
+typography_spectrum: 0.7907870367635041
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
